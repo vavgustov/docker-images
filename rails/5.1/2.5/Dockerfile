@@ -1,4 +1,4 @@
-FROM ruby:2.5.0-alpine3.7
+FROM ruby:2.5-alpine
 
 ENV RAILS_VERSION 5.1.4
 
